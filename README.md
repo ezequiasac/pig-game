@@ -1,6 +1,8 @@
 # pig-game Project
 
-Players take turns to roll a single die as many times as they wish, adding all roll results to a running total, but losing their gained score for the turn if they roll a 1.
+Aplicativo desenvolvido durante o curso 'The Complete JavaScript Course 2021'.
+
+Os jogadores se revezam para rolar um único dado quantas vezes quiserem, adicionando todos os resultados da rolagem a um total corrente, mas perdendo sua pontuação ganha no turno se rolarem um 1.
 
 ## Hosting Site
 
